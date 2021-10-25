@@ -1,0 +1,52 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+table{
+    border: 2px solid black;
+    color: black;
+    border-collapse: collapse;
+}
+th{ 
+    text-align: center;
+    border: 2px solid white;
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+}
+td{
+    text-align: center;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.wattson{
+    background-color: cornflowerblue;
+    color: white;
+}
+.wattson:hover{
+    background-color: deepskyblue;
+}
+.wraith{
+    background-color: mediumpurple;
+    color: white;
+}
+.wraith:hover{
+    background-color: darkorchid;
+}
+.valkyrie{
+    background-color: orange;
+    color: white;
+}
+.valkyrie:hover{
+    background-color: coral;
+}
+.path{
+    background-color: royalblue;
+    color: white;
+}
+.path:hover{
+    background-color: blue;
+}
