@@ -1,0 +1,53 @@
+body{
+    background-color: #ededed;
+    font-family: "Roboto", sans-serif;
+}
+.container{
+    background: white;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 22%);
+    height: auto;
+    padding: 16px 32px;
+    max-width: 650px;
+    margin: 16px auto;
+    width: 100%;
+}
+div{
+    margin-left: 5%;
+}
+article{
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+}
+a.print[href]::after{
+    color: #000 !important;
+    content: "(" attr(href) ")" !important;
+    margin-left: 5px;
+    text-decoration: underline;
+}
+a{
+    color: springgreen;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+#visited{
+    color: tomato;
+}
+input:checked{
+    height: 20px;
+    width: 20px;
+}
+#hover{
+    color: springgreen;
+}
+.green{
+    color: springgreen;
+}
+.blue{
+    color: blue;
+}
