@@ -1,0 +1,238 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header_inner{
+    height: 76px;
+    display: flex;
+}
+.logo_valanta{
+    padding-left: 70px;
+    width: 200px;
+}
+.header_uaru{
+    font-family: 'Questrial', sans-serif;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    line-height: 23px;
+}
+.RU{
+    background: #4AD295;
+    border-radius: 2px;
+    color: white;
+    padding: 3px 7px;
+    margin-left: -7px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.header_euro_dollar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.header_social{
+    padding: 25px 25px 0px 30px;
+}
+.instagram{
+    width: 20px;
+    height: 20px;
+}
+.social_media{
+    padding: 0px 5px 0px 5px;
+}
+.header_phones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 15px 0px 30px;
+    line-height: 30px;
+}
+.phone{
+    padding-right: 20px;
+}
+.phone_call{
+    position: relative;
+    top: 15px;
+    width: 40px;
+    height: 40px;
+}
+.maistra{
+    display: flex;
+    padding: 15px 10px 0px 30px;
+    
+}
+.maistra_text{
+    border-radius: 5px;
+    padding: 10px;
+    height: 20px;
+    background-color: rgb(231, 231, 231);
+}
+.calendar_img{
+    position: relative;
+    top: 5px;
+    width: 60px;
+    height: 60px;
+    background-color: lightcoral;
+}
+.calendar{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    width: 30px;
+    height: 30px;
+}
+.turs{
+    display: flex;
+    padding: 15px 10px 0px 30px;
+}
+.turs_text{
+    border-radius: 5px;
+    background-color: rgb(231, 231, 231);
+    padding: 10px;
+    height: 20px;
+}
+.poisk_img{
+    position: relative;
+    top: 5px;
+    width: 60px;
+    height: 60px;
+    background-color: mediumaquamarine;
+}
+.poisk{
+    position: relative;
+    top: 17px;
+    left: 17px;
+}
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.header_nav_inner {
+    margin-left: 70px;
+}
+.ul_nav {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.poisk_nav{
+    position: relative;
+    top: 42px;
+}
+.header_main{
+    background: url(../img/valantaphoto.jpg);
+    background-size: 100%;
+    width: 100%;
+    height: 490px;
+}
+.header_main_inner_cost {
+    position: relative;
+    top: 100px;
+    left: 80px;
+    color: white;
+    font-size: x-large;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid white;
+    padding: 10px 20px;
+}
+.header_main_inner_text{
+    color: white;
+    font-size: xx-large;
+    position: relative;
+    top: 190px;
+    right: 265px;
+}
+.header_main_inner_more{
+    background: rgba(255, 255, 255, 0.479);
+    border-radius: 2px;
+    color: white;
+    padding: 20px 90px;
+    position: relative;
+    top: 300px;
+    right: 670px;
+    text-align: center;
+}
+.second_page {
+    height: 250px;
+    margin-top: 30px;
+    background: #F8F8F8;
+}
+.second_page_left {
+    display: flex;
+    flex-direction: column;
+}
+.second_page_text{
+    font-size: 30px;
+}
+.second_page_desc {
+    color: #777777;
+    font-size: 18px;
+    line-height: 28px;
+}
+.second_page_left_buttons {
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+.second_page_left_first_but {
+    background: #BDBDBD;
+    border-radius: 2px;
+    color: white;
+    padding: 15px 40px;
+    font-size: 14px;
+}
+.second_page_left_second_but {
+    margin-left: 30px;
+    border: 1px solid #969696;
+    border-radius: 2px;
+    color: #969696;
+    padding: 15px 40px;
+}
+.second_page_right {
+    margin-top: -180px;
+    margin-left: 150px;
+}
+.right_page_ul {
+    font-weight: bold;
+    color: #3D3D3D;
+    list-style-type: none;
+    line-height: 60px;
+}
+.right_page_ul li{
+    margin-left: 30px;
+}
+.right_page_ul li img{
+    position: relative;
+    top: 15px;
+    right: 10px;
+}
+.third_page_inner {
+    display: flex;
+    flex-direction: row;
+}
+.third_page_text {
+    color: #232323;
+    font-weight: 500;
+    font-size: 35px;
+}
+.arrow_first{
+    transform: scale(-1, 1);
+}
+
+
+
+
+
+
+

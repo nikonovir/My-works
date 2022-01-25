@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>Ellipse 32</title>
+	<defs>
+		<image  width="50" height="50" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAGlQTFRFAAAAx8fHxMTExMTExsbGxsbGxcXFxsbGxcXFx8fHv7+/v7+/x8fHx8fHxcXFwsLCz8/Pw8PDxsbGxcXFxMTExcXFxcXFxsbGxMTExsbGxsbGxsbGysrKxMTExcXFxcXFv7+/xsbGxsbGlueCEgAAACN0Uk5TACBgkM/f7/+/XyAQf59vUBBAoIAwn6+PoK9w7zBwz08wkFBb3sAZAAABgElEQVR4nJ2W7XbCIAyGAzQUBasUq61u3dz9X+RgHedghQK+vyzlaRLf8AHwIkJZg7xtWxRst399v5ZUyA/dkZwcq7sekW1TWnCjn4fOPQ5paH/h5hQZp0moiwNOBnex4Suek/GB4PVlTDZjKsTyfmrkmjBbwF9yKyZPOCZ8uk55AmAM6qG4WYeXxJv/uUdSQlhb796fsaCQRWbyQUoJkHxppzHqbCKMqAziwjhz2KECAePqxo8aRGNlXlacAK3KC6CnwG75aaE+GQidnxbqOENps3gRhLaOAHmvRizwBsJlftYKeaP8+asO0eIdK2sbxq4ucq9DXO1Y1TFn1/imeLNwGhm4DqhxZvFEVIT5/7N0RRhv/FQcRnlHCN84jEIFO/ENi1KT4fHHhhLkwsKnWeUJ9XQkgcwzqlkdQnKeNuuRw5qwYrhx8/hGFhummEpOKp5YVaSPXiIsMKVXu4WGla1a8cyGSh6IQ6fdVyX56Q4ckxebkKIPgfYGx3F+0EhGv8F+DZaz6BfPAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #c6c6c6 } 
+	</style>
+	<use id="Background" href="#img1" x="1" y="2" />
+	<path id="Layer" class="s0" d="m13.65 27.04c-0.2-0.2-0.2-0.51 0-0.71l3.18-3.18c0.2-0.2 0.51-0.2 0.71 0c0.2 0.2 0.2 0.51 0 0.71l-2.83 2.83l2.83 2.83c0.2 0.2 0.2 0.51 0 0.71c-0.2 0.2-0.51 0.2-0.71 0l-3.18-3.18zm25.35 0.15h-25v-1h25v1z" />
+</svg>
