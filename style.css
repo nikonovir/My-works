@@ -78,7 +78,7 @@ h2{
     box-shadow: 0px 0px 25px 10px rgba(34, 60, 80, 0.2);
 }
 .nav_content{
-    background-color: rgb(255, 184, 207);
+    background-color: rgb(255, 157, 188);
     border-radius: 10px;
     width: 100%;
     height: auto;
@@ -98,9 +98,9 @@ h2{
     box-shadow: 0px 0px 50px 10px rgba(0, 255, 244, 1);
 }
 .nav_content2:hover{
-    -webkit-box-shadow: 0px 0px 35px 10px rgba(255, 184, 207); 
-    -moz-box-shadow: 0px 0px 35px 10px rgba(255, 184, 207); 
-    box-shadow: 0px 0px 35px 10px rgba(255, 184, 207);
+    -webkit-box-shadow: 0px 0px 35px 10px rgba(255, 157, 188); 
+    -moz-box-shadow: 0px 0px 35px 10px rgba(255, 157, 188); 
+    box-shadow: 0px 0px 35px 10px rgba(255, 157, 188);
 }
 .nav_card:hover{
     -webkit-box-shadow: 0px 0px 50px 10px rgba(0, 255, 244, 1); 
@@ -108,7 +108,7 @@ h2{
     box-shadow: 0px 0px 50px 10px rgba(0, 255, 244, 1);
 }
 .nav_card2:hover{
-    -webkit-box-shadow: 0px 0px 35px 10px rgb(255, 184, 207); 
-    -moz-box-shadow: 0px 0px 35px 10px rgba(255, 184, 207); 
-    box-shadow: 0px 0px 35px 10px rgba(255, 184, 207);
+    -webkit-box-shadow: 0px 0px 35px 10px rgb(255, 157, 188); 
+    -moz-box-shadow: 0px 0px 35px 10px rgba(255, 157, 188); 
+    box-shadow: 0px 0px 35px 10px rgba(255, 157, 188);
 }
